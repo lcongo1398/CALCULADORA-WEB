@@ -12,7 +12,7 @@ Se trata de una calculadora simple que permite realizar operaciones matemáticas
 3. ¡Comienza a calcular!
 
 ## 🌐 Enlaces
-- **Repositorio GitHub:** https://github.com/Jkm261995/Creaci-n_aplicaciones_WEB.git
+- **Repositorio GitHub:** https://github.com/lcongo1398/CALCULADORA-WEB.git
 - **Ver en línea (GitHub Pages):** https://jkm261995.github.io/Creaci-n_aplicaciones_WEB/
 
 ## ✅ Características
