@@ -13,8 +13,7 @@ Se trata de una calculadora simple que permite realizar operaciones matemáticas
 
 ## 🌐 Enlaces
 - **Repositorio GitHub:** https://github.com/lcongo1398/CALCULADORA-WEB.git
-- **Ver en línea (GitHub Pages):** https://jkm261995.github.io/Creaci-n_aplicaciones_WEB/
-
+- **Ver en línea (GitHub Pages):** https://lcongo1398.github.io/CALCULADORA-WEB/
 ## ✅ Características
 - ✔️ Operaciones básicas: +, -, ×, ÷
 - ✔️ Botón de limpieza (C)
